@@ -24,7 +24,7 @@ const Skills = () => {
     <img className='border' src="https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/SQL.png" alt="" />
     </div>
     </div>
-    
+     
   )
 }
 
